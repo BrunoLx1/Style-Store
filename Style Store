@@ -1,0 +1,18 @@
+<DOCTYPE HTML>
+	<html lang="pt-BR">
+<head>
+	<title>Cod BRUNO</title>
+</head>
+<style>
+	body {
+	font-family: Arial;
+	background: linear-gradient(135deg, black, aqua);
+	
+	h1 {
+	text-align: center;
+	}
+</style>
+<body>
+	<h1> Bruno Lindo</h1>
+</body>
+</html>
